@@ -1,6 +1,6 @@
 # Phantom Arms 
 ###### A novel mechanical design for a robotic humanoid arm 
-<br><br>
+<br>
 #### This design prioritizes
 * Organic human like movement
 * Physical strength efficiency
